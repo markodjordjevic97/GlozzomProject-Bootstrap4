@@ -32,3 +32,16 @@
     background-image:linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)), url(../img/media.jpg);
     background-attachment: fixed;
 }
+
+/* About us */
+.img-about-1 {
+    background-image: linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)), url(../img/lights.jpg);
+    background-size:  cover;
+    background-position: center;
+}
+.img-up img {
+    margin-top: -55px;
+}
+.carousel-inner-2 {
+    height: 100px !important;
+}
